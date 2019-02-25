@@ -1,1 +1,1 @@
-$ web: gunicorn app:glob-ml
+$ web: gunicorn glob-ml:app
