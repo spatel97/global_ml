@@ -1,1 +1,1 @@
-$ web: gunicorn glob-ml.wsgi
+$ web: gunicorn map_all
