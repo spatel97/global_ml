@@ -1,1 +1,1 @@
-$ web: gunicorn glob-ml:app
+$ web: gunicorn glob-ml.wsgi
